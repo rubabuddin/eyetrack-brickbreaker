@@ -1,0 +1,116 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   .gitignore
+#	new file:   Assets/Balls.cs
+#	new file:   Assets/Balls.cs.meta
+#	new file:   Assets/Bouncy.physicMaterial
+#	new file:   Assets/Bouncy.physicMaterial.meta
+#	new file:   Assets/Cube.prefab
+#	new file:   Assets/Cube.prefab.meta
+#	new file:   Assets/Cubes.cs
+#	new file:   Assets/Cubes.cs.meta
+#	new file:   Assets/Move.cs
+#	new file:   Assets/Move.cs.meta
+#	new file:   Assets/Scenes.meta
+#	new file:   Assets/Scenes/socketTest.unity
+#	new file:   Assets/Scenes/socketTest.unity.meta
+#	new file:   Assets/SocketClient.cs
+#	new file:   Assets/SocketClient.cs.meta
+#	new file:   Assets/Utility Shaders Free.meta
+#	new file:   Assets/Utility Shaders Free/Materials.meta
+#	new file:   Assets/Utility Shaders Free/Materials/Bar Graph Preview.mat
+#	new file:   Assets/Utility Shaders Free/Materials/Bar Graph Preview.mat.meta
+#	new file:   Assets/Utility Shaders Free/Materials/Blur Preview.mat
+#	new file:   Assets/Utility Shaders Free/Materials/Blur Preview.mat.meta
+#	new file:   Assets/Utility Shaders Free/Materials/ComingSoonPreview.mat
+#	new file:   Assets/Utility Shaders Free/Materials/ComingSoonPreview.mat.meta
+#	new file:   Assets/Utility Shaders Free/Materials/Digital Screen Preview.mat
+#	new file:   Assets/Utility Shaders Free/Materials/Digital Screen Preview.mat.meta
+#	new file:   Assets/Utility Shaders Free/Materials/Directional Blur Preview.mat
+#	new file:   Assets/Utility Shaders Free/Materials/Directional Blur Preview.mat.meta
+#	new file:   Assets/Utility Shaders Free/Materials/Distort By Texture B Preview.mat
+#	new file:   Assets/Utility Shaders Free/Materials/Distort By Texture B Preview.mat.meta
+#	new file:   Assets/Utility Shaders Free/Materials/Distort By Texture Preview.mat
+#	new file:   Assets/Utility Shaders Free/Materials/Distort By Texture Preview.mat.meta
+#	new file:   Assets/Utility Shaders Free/Materials/Mapping Preview.mat
+#	new file:   Assets/Utility Shaders Free/Materials/Mapping Preview.mat.meta
+#	new file:   Assets/Utility Shaders Free/Materials/Numbers Preview.mat
+#	new file:   Assets/Utility Shaders Free/Materials/Numbers Preview.mat.meta
+#	new file:   Assets/Utility Shaders Free/Materials/Pixelated Noise Preview.mat
+#	new file:   Assets/Utility Shaders Free/Materials/Pixelated Noise Preview.mat.meta
+#	new file:   Assets/Utility Shaders Free/Materials/Radar Preview.mat
+#	new file:   Assets/Utility Shaders Free/Materials/Radar Preview.mat.meta
+#	new file:   Assets/Utility Shaders Free/Materials/Spherize Preview.mat
+#	new file:   Assets/Utility Shaders Free/Materials/Spherize Preview.mat.meta
+#	new file:   Assets/Utility Shaders Free/Prefabs.meta
+#	new file:   Assets/Utility Shaders Free/Prefabs/Utility Shaders Free Example Holder.prefab
+#	new file:   Assets/Utility Shaders Free/Prefabs/Utility Shaders Free Example Holder.prefab.meta
+#	new file:   Assets/Utility Shaders Free/README.meta
+#	new file:   Assets/Utility Shaders Free/README/Utility Shaders Document.pdf
+#	new file:   Assets/Utility Shaders Free/README/Utility Shaders Document.pdf.meta
+#	new file:   Assets/Utility Shaders Free/Scenes.meta
+#	new file:   Assets/Utility Shaders Free/Scenes/USV Free Example Scene.unity
+#	new file:   Assets/Utility Shaders Free/Scenes/USV Free Example Scene.unity.meta
+#	new file:   Assets/Utility Shaders Free/Shaders.meta
+#	new file:   Assets/Utility Shaders Free/Shaders/USV1 Preview Blur.shader
+#	new file:   Assets/Utility Shaders Free/Shaders/USV1 Preview Blur.shader.meta
+#	new file:   Assets/Utility Shaders Free/Shaders/USV1 Preview DBlur.shader
+#	new file:   Assets/Utility Shaders Free/Shaders/USV1 Preview DBlur.shader.meta
+#	new file:   Assets/Utility Shaders Free/Shaders/USV1 Preview Distort Texture.shader
+#	new file:   Assets/Utility Shaders Free/Shaders/USV1 Preview Distort Texture.shader.meta
+#	new file:   Assets/Utility Shaders Free/Shaders/USV1 Preview Pixelated Noise.shader
+#	new file:   Assets/Utility Shaders Free/Shaders/USV1 Preview Pixelated Noise.shader.meta
+#	new file:   Assets/Utility Shaders Free/Shaders/USV2 Preview Bar Graph.shader
+#	new file:   Assets/Utility Shaders Free/Shaders/USV2 Preview Bar Graph.shader.meta
+#	new file:   Assets/Utility Shaders Free/Shaders/USV3 Preview Spherize.shader
+#	new file:   Assets/Utility Shaders Free/Shaders/USV3 Preview Spherize.shader.meta
+#	new file:   Assets/Utility Shaders Free/Shaders/USV4 Preview Cartography.shader
+#	new file:   Assets/Utility Shaders Free/Shaders/USV4 Preview Cartography.shader.meta
+#	new file:   Assets/Utility Shaders Free/Shaders/USV5 Preview Digital Screen.shader
+#	new file:   Assets/Utility Shaders Free/Shaders/USV5 Preview Digital Screen.shader.meta
+#	new file:   Assets/Utility Shaders Free/Shaders/USV5 Preview Numbers.shader
+#	new file:   Assets/Utility Shaders Free/Shaders/USV5 Preview Numbers.shader.meta
+#	new file:   Assets/Utility Shaders Free/Shaders/USV6 Preview Radar.shader
+#	new file:   Assets/Utility Shaders Free/Shaders/USV6 Preview Radar.shader.meta
+#	new file:   Assets/Utility Shaders Free/Textures.meta
+#	new file:   Assets/Utility Shaders Free/Textures/Cloud NM Preview.png
+#	new file:   Assets/Utility Shaders Free/Textures/Cloud NM Preview.png.meta
+#	new file:   Assets/Utility Shaders Free/Textures/Cloud Preview.png
+#	new file:   Assets/Utility Shaders Free/Textures/Cloud Preview.png.meta
+#	new file:   Assets/Utility Shaders Free/Textures/Triangle NM Preview.psd
+#	new file:   Assets/Utility Shaders Free/Textures/Triangle NM Preview.psd.meta
+#	new file:   Assets/Utility Shaders Free/Textures/Triangle Preview.png
+#	new file:   Assets/Utility Shaders Free/Textures/Triangle Preview.png.meta
+#	new file:   Assets/Utility Shaders Free/Textures/Triangle_alpha Preview.png
+#	new file:   Assets/Utility Shaders Free/Textures/Triangle_alpha Preview.png.meta
+#	new file:   Assets/Utility Shaders Free/Textures/comingsoon.png
+#	new file:   Assets/Utility Shaders Free/Textures/comingsoon.png.meta
+#	new file:   Assets/Utility Shaders Free/Textures/hex grid Preview.png
+#	new file:   Assets/Utility Shaders Free/Textures/hex grid Preview.png.meta
+#	new file:   Assets/Utility Shaders Free/Textures/hex grid normal Preview.png
+#	new file:   Assets/Utility Shaders Free/Textures/hex grid normal Preview.png.meta
+#	new file:   Assets/Utility Shaders Free/Textures/numbers Preview.png
+#	new file:   Assets/Utility Shaders Free/Textures/numbers Preview.png.meta
+#	new file:   ProjectSettings/AudioManager.asset
+#	new file:   ProjectSettings/DynamicsManager.asset
+#	new file:   ProjectSettings/EditorBuildSettings.asset
+#	new file:   ProjectSettings/EditorSettings.asset
+#	new file:   ProjectSettings/GraphicsSettings.asset
+#	new file:   ProjectSettings/InputManager.asset
+#	new file:   ProjectSettings/NavMeshLayers.asset
+#	new file:   ProjectSettings/NetworkManager.asset
+#	new file:   ProjectSettings/Physics2DSettings.asset
+#	new file:   ProjectSettings/ProjectSettings.asset
+#	new file:   ProjectSettings/QualitySettings.asset
+#	new file:   ProjectSettings/TagManager.asset
+#	new file:   ProjectSettings/TimeManager.asset
+#
+
